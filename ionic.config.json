@@ -1,0 +1,7 @@
+{
+  "name": "delivery-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
